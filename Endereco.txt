@@ -1,2 +1,0 @@
-Endereço repositório Bootcamp no github:
-https://github.com/PeArthur/bootcamp_devjr.git
